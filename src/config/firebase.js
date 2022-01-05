@@ -7,8 +7,7 @@ const firebaseConfig = {
     projectId: "reactfirebase-db572",
     storageBucket: "reactfirebase-db572.appspot.com",
     messagingSenderId: "500208914560",
-    appId: "1:500208914560:web:a32dda9b87a976b4915665",
-    measurementId: "G-WLSW8VTBG5"
+    appId: "1:500208914560:web:a32dda9b87a976b4915665"
   };
 
   const app = initializeApp(firebaseConfig);
